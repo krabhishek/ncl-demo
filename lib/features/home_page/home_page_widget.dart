@@ -1,4 +1,4 @@
-import '/components/amount_component_widget.dart';
+import '/amount_comp/amount_component/amount_component_widget.dart';
 import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import 'package:flutter/material.dart';
